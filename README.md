@@ -13,7 +13,7 @@
 - 📫  Contact me **[here](anushkashrivastava22@gmail.com)**
 
 
-![Anushka's Cover](./coverimage.png)
+![Anushka's Cover](./cover.png)
 
 ## 📚 My Skills
 
