@@ -4,7 +4,6 @@
 
 ## 👩🏼‍💻 About Me
 
-- 🔭 I’m currently working on [CSS art gallery](https://github.com/anushka00/css-art-gallery)
 
 - 🌱 I’m currently learning **Html,CSS,React,JS**
 
