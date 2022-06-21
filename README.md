@@ -5,7 +5,7 @@
 ## 👩🏼‍💻 About Me
 
 
-- 🌱 I’m currently learning **Html,CSS,React,JS**
+- 🌱 I’m currently learning **React,JS,Nodejs**
 
 -  🤖Learning **DSA** 
 
